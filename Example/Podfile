@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NSCButton_Example', :exclusive => true do
+  pod 'NSCButton', :path => '../'
+end
+
+target 'NSCButton_Tests', :exclusive => true do
+  pod 'NSCButton', :path => '../'
+
+  
+end
