@@ -1,0 +1,6 @@
+framework module NSCButton {
+  umbrella header "NSCButton-umbrella.h"
+
+  export *
+  module * { export * }
+}

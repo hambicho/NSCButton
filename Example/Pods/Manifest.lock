@@ -1,0 +1,14 @@
+PODS:
+  - NSCButton (0.1.0)
+
+DEPENDENCIES:
+  - NSCButton (from `../`)
+
+EXTERNAL SOURCES:
+  NSCButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NSCButton: 3dd9c70051e006303b7880025168c5c289dc9e0a
+
+COCOAPODS: 0.39.0
