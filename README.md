@@ -29,7 +29,7 @@ Henry AT, henry.ambicho@mercadolibre.cl
 NSCButton is available under the MIT license. See the LICENSE file for more info.
 
 ## Source for inspiration
-(http://nscookbook.com/2014/09/ios-programming-recipe-34-making-your-own-cocoapod/)
-(http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332)
-(https://www.raywenderlich.com/99386/create-cocoapod-swift)
+http://nscookbook.com/2014/09/ios-programming-recipe-34-making-your-own-cocoapod/
+http://code.tutsplus.com/tutorials/creating-your-first-cocoapod--cms-24332
+https://www.raywenderlich.com/99386/create-cocoapod-swift
 
